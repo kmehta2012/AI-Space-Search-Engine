@@ -1,3 +1,5 @@
+# This is my team's hackathon project for NASA space apps hackathon. I worked on the evaluation pipeline of the RAG system, in the evaluation/ folder
+
 # AstroBio Explorer
 
 AstroBio Explorer is our AI-powered research assistant built for the **NASA Space Apps Challenge 2025(Build a Space Biology Knowledge Engine)**.
